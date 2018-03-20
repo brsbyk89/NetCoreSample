@@ -13200,11 +13200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alik\\NetCoreSample\\NetCoreSample\\NetCoreSample.csproj",
+      "projectUniqueName": "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample\\NetCoreSample.csproj",
       "projectName": "NetCoreSample",
-      "projectPath": "C:\\Users\\alik\\NetCoreSample\\NetCoreSample\\NetCoreSample.csproj",
+      "projectPath": "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample\\NetCoreSample.csproj",
       "packagesPath": "C:\\Users\\alik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alik\\NetCoreSample\\NetCoreSample\\obj\\",
+      "outputPath": "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13224,17 +13224,17 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\alik\\NetCoreSample\\NetCoreSample.Business.Contracts\\NetCoreSample.Business.Contracts.csproj": {
-              "projectPath": "C:\\Users\\alik\\NetCoreSample\\NetCoreSample.Business.Contracts\\NetCoreSample.Business.Contracts.csproj"
+            "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample.Business.Contracts\\NetCoreSample.Business.Contracts.csproj": {
+              "projectPath": "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample.Business.Contracts\\NetCoreSample.Business.Contracts.csproj"
             },
-            "C:\\Users\\alik\\NetCoreSample\\NetCoreSample.Business\\NetCoreSample.Business.csproj": {
-              "projectPath": "C:\\Users\\alik\\NetCoreSample\\NetCoreSample.Business\\NetCoreSample.Business.csproj"
+            "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample.Business\\NetCoreSample.Business.csproj": {
+              "projectPath": "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample.Business\\NetCoreSample.Business.csproj"
             },
-            "C:\\Users\\alik\\NetCoreSample\\NetCoreSample.Data.Contracts\\NetCoreSample.Data.Contracts.csproj": {
-              "projectPath": "C:\\Users\\alik\\NetCoreSample\\NetCoreSample.Data.Contracts\\NetCoreSample.Data.Contracts.csproj"
+            "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample.Data.Contracts\\NetCoreSample.Data.Contracts.csproj": {
+              "projectPath": "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample.Data.Contracts\\NetCoreSample.Data.Contracts.csproj"
             },
-            "C:\\Users\\alik\\NetCoreSample\\NetCoreSample.Data\\NetCoreSample.Data.csproj": {
-              "projectPath": "C:\\Users\\alik\\NetCoreSample\\NetCoreSample.Data\\NetCoreSample.Data.csproj"
+            "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample.Data\\NetCoreSample.Data.csproj": {
+              "projectPath": "C:\\Users\\alik\\Documents\\Visual Studio 2017\\Projects\\NetCoreSample.Data\\NetCoreSample.Data.csproj"
             }
           }
         }
